@@ -6,11 +6,11 @@
     "manifest_version": 2,
     "content_scripts": [
 	    {
-	      "matches": ["http://checkin.timewatch.co.il/punch/editwh.php*"],
+	      "matches": ["https://checkin.timewatch.co.il/punch/editwh.php*"],
 	      "js": ["timewatch.js"]
 	    },
 	    {
-	    	"matches":["http://checkin.timewatch.co.il/punch/editwh2.php*"],
+	    	"matches":["https://checkin.timewatch.co.il/punch/editwh2.php*"],
 	    	"run_at" : "document_idle",
 	    	"js":["filler.js"]
 	    }

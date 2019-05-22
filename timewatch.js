@@ -1,8 +1,2 @@
-var rows = document.querySelectorAll(".tr")
-rows.forEach(function(row){
-	var day = row.querySelectorAll("td")[1].querySelector("font").textContent;
+document.querySelectorAll("td[bgcolor='red']")[0].parentNode.click();
 
-	if (day.indexOf(" ")>0)//TODO: skip Holidays
-		row.click();
-	
-});
