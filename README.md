@@ -1,8 +1,8 @@
-Download (or clone) to [Dir]
+Download (or clone) to [Dir].
 
-Open this [chrome://extensions/] on a chrome browser
+Open this [chrome://extensions/] on a chrome browser.
 
-Switch to developer mode (top right corner)
+Switch to developer mode (top right corner).
 
 Click on "Load unpacked". Go to [Dir]. Open the folder.
 
