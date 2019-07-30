@@ -1,13 +1,15 @@
-Download (or clone) to [Dir].
+How to use:
 
-Open this [chrome://extensions/] on a chrome browser.
+1. Download (or clone) to [Dir].
 
-Switch to developer mode (top right corner).
+2. Open this [chrome://extensions/] on a chrome browser.
 
-Click on "Load unpacked". Go to [Dir]. Open the folder.
+3. Switch to developer mode (top right corner).
 
-Go to timewatch.co.il. Login. Go to update attendence page.
+4. Click on "Load unpacked". Go to [Dir]. Open the folder.
 
-The extation will be blocked by the browser. On the url line, there's will be an icon for blocked popup. Click. Enable everything for this site. Refresh. Done.
+5. Go to timewatch.co.il. Login. Go to update attendence page.
 
-Enjoy.
+6. The extation will be blocked by the browser. On the url line, there's will be an icon for blocked popup. Click. Enable everything for this site. Refresh. Done.
+
+7. Enjoy.
